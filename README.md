@@ -1,24 +1,73 @@
-# 💫 About Me:
-🔭 Frontend development projects<br>👯 Open-source and frontend projects<br>🤝 Advanced JavaScript and React<br>🌱 React.js and advanced JavaScript<br>💬 HTML, CSS, Tailwind CSS, JavaScript<br>⚡ Debugging frontend issues is my kind of game!
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil_rajput.74)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karanrajput4580@gmail.com) 
-
-# 💻 Tech Stack:
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SahilRajput47&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SahilRajput47&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilRajput47&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SahilRajput47&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+<h2 align="center">👋 Hey there, I'm <span style="color:#1DA1F2"><strong>Sahil Rajput</strong></span></h2>
+<p align="center">🚀 Frontend Developer | 💻 Web Enthusiast | 🤝 Team Collaborator</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SahilRajput47&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌟 About Me  
+I'm a creative and detail-oriented **Frontend Developer** passionate about building beautiful and functional web interfaces. I work with both **static** and **dynamic websites**, and I thrive in collaborative environments where ideas turn into real-world solutions.
+
+---
+
+### 🔧 Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,github,vscode" alt="My Tech Stack" />
+</p>
+
+| ⚙️ Technology         | 💡 Expertise                         |
+|-----------------------|--------------------------------------|
+| **Languages**         | HTML5, CSS3, JavaScript (ES6+)       |
+| **Styling Frameworks**| Bootstrap, Tailwind CSS              |
+| **Frontend Libraries**| React.js, Next.js                    |
+| **Tools & Platforms** | Git, GitHub, VS Code                 |
+| **Other Skills**      | Responsive Design, SEO Basics, Team Collaboration |
+
+---
+
+### 💼 What I Do
+- 🎨 Design pixel-perfect UIs with accessibility in mind  
+- ⚙️ Develop scalable, modular, and maintainable web components  
+- 🌍 Build SEO-optimized and mobile-responsive websites  
+- 🤝 Collaborate on team and freelance projects with modern workflows  
+
+---
+
+### 🤝 I Love To
+- 💡 Transform ideas into interactive experiences  
+- 👥 Work with diverse teams on real-world projects  
+- 📖 Stay updated with the latest frontend trends and tech  
+
+---
+
+### 📫 Connect With Me
+- 📧 **Email:** [karanrajput4580@gmail.com](mailto:karanrajput4580@gmail.com)  
+- 🐙 **GitHub:** [github.com/SahilRajput47](https://github.com/SahilRajput47)  
+- 📸 **Instagram:** [@sahil_rajput.74](https://instagram.com/sahil_rajput.74)
+
+---
+
+### 📄 Download My Resume
+<p align="center">
+  <a href="https://your-resume-link-here.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilRajput47&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Sahil Rajput's GitHub Stats" />
+</p>
+
+---
+
+### 📈 GitHub Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilRajput47&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Awesome!;Frontend+Developer+%7C+React+%7C+Next.js;Clean+Code+%2B+Creative+Designs+%3D+💖" alt="Typing SVG" />
+</p>
