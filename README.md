@@ -54,18 +54,6 @@ I'm a creative and detail-oriented **Frontend Developer** passionate about build
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilRajput47&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Sahil Rajput's GitHub Stats" />
-</p>
-
----
-
-### 📈 GitHub Streaks
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilRajput47&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
 ---
 
 <p align="center">
