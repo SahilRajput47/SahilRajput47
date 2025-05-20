@@ -51,11 +51,3 @@ I'm a creative and detail-oriented **Frontend Developer** passionate about build
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
   </a>
 </p>
-
----
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Awesome!;Frontend+Developer+%7C+React+%7C+Next.js;Clean+Code+%2B+Creative+Designs+%3D+💖" alt="Typing SVG" />
-</p>
