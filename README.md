@@ -39,7 +39,7 @@ I'm a creative and detail-oriented **Frontend Developer** passionate about build
 ---
 
 ### 📫 Connect With Me
-- 📧 **Email:** [karanrajput4580@gmail.com](mailto:karanrajput4580@gmail.com)  
+- 📧 **Email:** [sahilrajput4763@gmail.com](mailto:sahilrajput4763@gmail.com)  
 - 🐙 **GitHub:** [github.com/SahilRajput47](https://github.com/SahilRajput47)  
 - 📸 **Instagram:** [@sahil_rajput.74](https://instagram.com/sahil_rajput.74)
 
