@@ -41,7 +41,8 @@ I'm a creative and detail-oriented **Frontend Developer** passionate about build
 ### 📫 Connect With Me
 - 📧 **Email:** [sahilrajput4763@gmail.com](mailto:sahilrajput4763@gmail.com)  
 - 🐙 **GitHub:** [github.com/SahilRajput47](https://github.com/SahilRajput47)  
-- 📸 **Instagram:** [@sahil_rajput.74](https://instagram.com/sahil_rajput.74)
+- 📸 **Instagram:** [@sahil_rajput.74](https://instagram.com/sahil_rajput.74)  
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil%20Rajput-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahil-rajput-40b8a136b/)
 
 ---
 
