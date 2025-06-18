@@ -47,7 +47,7 @@ I'm a creative and detail-oriented **Frontend Developer** passionate about build
 
 ### 📄 Download My Resume
 <p align="center">
-  <a href="https://github.com/SahilRajput47/Resume/blob/main/resume.pdf" target="_blank">
+  <a href="https://github.com/SahilRajput47/Resume/blob/9759e8699837694bdec06044828d07755cfe6610/Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
   </a>
 </p>
