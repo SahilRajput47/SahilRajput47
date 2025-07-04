@@ -9,8 +9,8 @@
   <!-- Header Section -->
 
   <div style="text-align: center;">
-    <h1 style="margin: 0; padding: 10px 0; font-size: 2.5em;">✨ Hi, I'm <span style="color:#ff6600;">Sahil Rajput</span> ⚡</h1>
-    <p style="margin-top: 0; font-size: 18px;">🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 🌐 Web Architect | 📈 Creator @ Scale</p>
+    <h1 style="margin: 0; padding: 10px 0; font-size: 5vw;">✨ Hi, I'm <span style="color:#ff6600;">Sahil Rajput</span> ⚡</h1>
+    <p style="margin-top: 0; font-size: 3.5vw; max-width: 90vw; margin-inline: auto;">🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 🌐 Web Architect | 📈 Creator @ Scale</p>
   </div>
 
   <!-- Badge Section -->
@@ -24,10 +24,10 @@
     <img src="https://img.shields.io/github/stars/SahilRajput47?style=for-the-badge&label=Stars&logo=github&color=ff69b4" />
   </div>
 
-  <!-- Quick Intro and GitHub Stats -->
+  <!-- Intro and Stats -->
 
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div style="flex: 1 1 300px; padding: 20px; background: #f1f1f1; border-radius: 10px;">
+  <div style="display: flex; flex-direction: column; gap: 20px;">
+    <div style="padding: 20px; background: #f1f1f1; border-radius: 10px;">
       <h3 style="color:#ff6600">✨ Quick Intro</h3>
       <pre style="overflow-x: auto; background: #fff; padding: 15px; border-radius: 8px; font-size: 14px;">
 const developer = {
@@ -39,9 +39,9 @@ const developer = {
   moto: 'Stay creative, stay curious.'
 };</pre>
     </div>
-    <div style="flex: 1 1 300px; padding: 20px; background: #fff7f0; border-radius: 10px;">
+    <div style="padding: 20px; background: #fff7f0; border-radius: 10px;">
       <h3 style="color:#ff6600">📆 GitHub Journey Stats</h3>
-      <ul>
+      <ul style="font-size: 16px; padding-left: 20px;">
         <li>⏳ Joined GitHub: <strong>March 2023</strong></li>
         <li>🏆 Highest Streak: <strong>54 days</strong> 🔥</li>
         <li>🔥 Longest Recent Streak: <strong>18 days</strong></li>
@@ -55,14 +55,14 @@ const developer = {
 
   <div style="text-align: center;">
     <h3 style="color:#ff6600">🌿 Contribution Overview</h3>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilRajput47&theme=react-dark&custom_title=My+Coding+Activity&bg_color=0D1117&color=FF6C00&line=FF6C00&point=F8D866&area=true&hide_border=true" alt="GitHub Activity" style="max-width: 100%; border-radius: 8px;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilRajput47&theme=react-dark&custom_title=My+Coding+Activity&bg_color=0D1117&color=FF6C00&line=FF6C00&point=F8D866&area=true&hide_border=true" alt="GitHub Activity" style="width: 100%; height: auto; border-radius: 8px;" />
   </div>
 
   <!-- Projects Table -->
 
   <div style="overflow-x:auto;">
     <h3 style="color:#ff6600">🎯 Featured Projects</h3>
-    <table style="width: 100%; border-collapse: collapse;">
+    <table style="width: 100%; border-collapse: collapse; font-size: 16px;">
       <thead>
         <tr style="background: #eee;">
           <th style="padding: 8px;">💡 Project</th>
@@ -80,3 +80,5 @@ const developer = {
       </tbody>
     </table>
   </div>
+
+</div>
