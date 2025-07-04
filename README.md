@@ -118,7 +118,7 @@ const developer = {
   <div style="display: flex; flex-direction: column; gap: 40px;">
     <div style="background: #0f2027; color: #fff; border-radius: 10px; padding: 30px; text-align: center;">
       <h2 style="color: #ffcc70; margin-bottom: 10px; font-size: clamp(18px, 4vw, 28px);">📄 Resume</h2>
-      <a href="https://github.com/SahilRajput47/SahilRajput47/blob/main/Resume-SahilRajput.pdf" target="_blank">
+      <a href="https://github.com/SahilRajput47/Resume/blob/0bf6f7cdf031ccba80e4d8a8296a580973fa4235/Sahil%20Kumar%20Resume.pdf" target="_blank">
         <img src="https://img.shields.io/badge/Get%20PDF-Click%20Here-ff6600?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume Badge" />
       </a>
       <p style="margin-top: 15px; font-size: clamp(12px, 2vw, 16px);">🧾 A snapshot of my professional journey, technical skills, and achievements.</p>
