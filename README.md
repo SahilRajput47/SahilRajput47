@@ -9,8 +9,8 @@
   <!-- Header Section -->
 
   <div style="text-align: center;">
-    <h1 style="margin: 0; padding: 10px 0; font-size: 5vw;">✨ Hi, I'm <span style="color:#ff6600;">Sahil Rajput</span> ⚡</h1>
-    <p style="margin-top: 0; font-size: 3.5vw; max-width: 90vw; margin-inline: auto;">🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 🌐 Web Architect | 📈 Creator @ Scale</p>
+    <h1 style="margin: 0; padding: 10px 0; font-size: clamp(24px, 6vw, 48px);">✨ Hi, I'm <span style="color:#ff6600;">Sahil Rajput</span> ⚡</h1>
+    <p style="margin-top: 0; font-size: clamp(14px, 3vw, 24px); max-width: 90vw; margin-inline: auto;">🚀 Frontend Developer | 🎨 UI/UX Enthusiast | 🌐 Web Architect | 📈 Creator @ Scale</p>
   </div>
 
   <!-- Badge Section -->
@@ -62,12 +62,12 @@ const developer = {
 
   <div style="overflow-x:auto;">
     <h3 style="color:#ff6600">🎯 Featured Projects</h3>
-    <table style="width: 100%; border-collapse: collapse; font-size: 16px;">
+    <table style="width: 100%; border-collapse: collapse; font-size: clamp(12px, 2vw, 16px);">
       <thead>
         <tr style="background: #eee;">
-          <th style="padding: 8px;">💡 Project</th>
-          <th style="padding: 8px;">🔗 Live Demo</th>
-          <th style="padding: 8px;">📦 GitHub</th>
+          <th style="padding: 8px; text-align: left;">💡 Project</th>
+          <th style="padding: 8px; text-align: left;">🔗 Live Demo</th>
+          <th style="padding: 8px; text-align: left;">📦 GitHub</th>
         </tr>
       </thead>
       <tbody>
@@ -81,4 +81,60 @@ const developer = {
     </table>
   </div>
 
+  <!-- Certifications and Learning -->
+
+  <div style="display: flex; flex-wrap: wrap; gap: 30px;">
+    <div style="flex: 1; min-width: 280px; background: #fff0f0; padding: 20px; border-radius: 10px;">
+      <h3>📜 Certifications</h3>
+      <ul>
+        <li>🧾 Responsive Web Design – freeCodeCamp</li>
+        <li>📘 JavaScript Essentials – Great Learning</li>
+        <li>🔥 Firebase & Firestore – Bootcamp Project</li>
+      </ul>
+    </div>
+    <div style="flex: 1; min-width: 280px; background: #f0fff0; padding: 20px; border-radius: 10px;">
+      <h3>📘 Currently Learning</h3>
+      <ul>
+        <li>💎 Scalable UIs with TypeScript</li>
+        <li>🎬 Framer Motion & advanced React animations</li>
+        <li>🧠 SSR with Next.js</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Fun Facts -->
+
+  <div style="background: #f9f9f9; padding: 20px; border-radius: 10px;">
+    <h3>🎉 Fun Facts</h3>
+    <ul>
+      <li>🧠 I once debugged an entire project using just browser dev tools</li>
+      <li>💬 "Your animations feel like they breathe!" — A designer friend</li>
+      <li>🌱 I make at least one small UI experiment per week. Consistency = 🔑</li>
+    </ul>
+  </div>
+
+  <!-- Resume and Connect Sections -->
+
+  <div style="display: flex; flex-direction: column; gap: 40px;">
+    <div style="background: #0f2027; color: #fff; border-radius: 10px; padding: 30px; text-align: center;">
+      <h2 style="color: #ffcc70; margin-bottom: 10px; font-size: clamp(18px, 4vw, 28px);">📄 Resume</h2>
+      <a href="https://github.com/SahilRajput47/SahilRajput47/blob/main/Resume-SahilRajput.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Get%20PDF-Click%20Here-ff6600?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume Badge" />
+      </a>
+      <p style="margin-top: 15px; font-size: clamp(12px, 2vw, 16px);">🧾 A snapshot of my professional journey, technical skills, and achievements.</p>
+    </div>
+  </div>
+
+  
+<div style="background: linear-gradient(to right, #fceabb, #f8b500); border-radius: 10px; padding: 30px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <h2 style="font-size: clamp(18px, 4vw, 28px); color: #222;">🤝 Connect With Me</h2>
+  <p style="font-size: clamp(14px, 3vw, 18px); margin-bottom: 20px; color: #333;">I'm always open to collaboration, new ideas, or just a friendly chat. Let's connect!</p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <a href="mailto:sahilrajput4763@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/SahilRajput47"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/sahilrajput47"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </div>
 </div>
+
+
+ 
